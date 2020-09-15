@@ -13,5 +13,6 @@
 ![latest_news](README.assets/latest_news.png)
 
 # blog
+https://github.com/anby1118/si/blob/master/images/blog.png
 
 ![blog](README.assets/blog.png)
